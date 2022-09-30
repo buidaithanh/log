@@ -4,7 +4,9 @@ const port = 3000
 
 app.get('/tin-tuc', (req, res) => {
 
-  res.send('Hello thanh2 bm')
+
+
+  res.send('Hello thanh bm2')
 
 
 })

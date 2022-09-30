@@ -4,11 +4,13 @@ const port = 3000
 
 app.get('/tin-tuc', (req, res) => {
 
-  res.send('Hello world')
+
+  res.send('Hello!!!!!!!!')
+
 
   
 })
 
 app.listen(port, () => {
-  console.log(`App listening on port http:localhost:${port}`)
+  console.log(`app listening on port http:localhost:${port}`)
 })

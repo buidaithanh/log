@@ -6,6 +6,7 @@ app.get('/tin-tuc', (req, res) => {
 
   res.send('Hello thanh')
 
+
 })
 
 app.listen(port, () => {
